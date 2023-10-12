@@ -1,4 +1,0 @@
-main.c:35:5:main	16	static
-main.c:63:13:task1_code	24	static,ignoring_inline_asm
-main.c:80:13:task2_code	24	static,ignoring_inline_asm
-main.c:98:13:task3_code	24	static,ignoring_inline_asm
