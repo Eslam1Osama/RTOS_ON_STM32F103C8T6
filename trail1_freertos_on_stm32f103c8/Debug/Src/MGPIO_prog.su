@@ -1,0 +1,4 @@
+MGPIO_prog.c:22:4:MGPIO_u8_PinInit	24	static
+MGPIO_prog.c:83:4:MGPIO_u8_SetPinValue	24	static
+MGPIO_prog.c:102:4:MGPIO_u8_GetPinValue	24	static
+MGPIO_prog.c:116:4:MGPIO_u8_TogglePinValue	24	static
